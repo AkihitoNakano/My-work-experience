@@ -40,7 +40,7 @@
 
 ## スキル
 
-![picture 1](images/cda5b416e4dcc8f6f2e9197f53b6fa391a632ce537dbf51cd3ee1ef7262d5dc7.png)
+![picture 4](images/5e85cdd86504ec46e6a5d1094322f5dc7ba16ae2ae6e5b8c20fdf127e6bf8eee.png)
 
 #### TypeScript / Node.js / Next.js / React / MongoDB
 
@@ -109,18 +109,20 @@
 
 ---
 
-### 個人開発詳細
+### ウェブアプリケーション個人開発
 
 #### 料理レシピ作成アプリ GOOD FOOD (2022/09 - 2022/10 月末)
 
 WEB サイト
 👉 https://good-food-one.vercel.app/
 
-解説ページ、リポジトリ
+解説ページ、git
 👉 https://github.com/AkihitoNakano/GoodFood-Portfolio
 
 料理のレシピを作成し、複数のレシピをまとめて一つの A4 ページに印刷できるアプリを開発。
 アプリケーションの内容は妻に随時チェックしてもらい使いやすいアプリになるように改善を加えていきました。
+
+![picture 2](images/b8a085e5cac043f39965edc24c71ff820d11c277abda13a9bafed2b879875adb.jpg)
 
 - **主な実装内容**
   - サインアップ、ログイン、ログアウト、アカウント削除
@@ -137,3 +139,68 @@ WEB サイト
   - Jest, supertest を使用したテストコードの作成
   - デバッグ用のルーティング、コードの作成
   - レスポンシブ、モバイル対応
+
+<br>
+
+#### 俳句、川柳、575 が投稿できる SNS Web アプリケーション(2022/06 - 2022/08)
+
+WEB サイト
+👉 https://paiku575.com
+
+解説ページ、git
+👉 https://github.com/AkihitoNakano/Portfolio-Paiku575
+
+このアプリは俳句や川柳、575 などの句を投稿し、いいねや返信をすることで他のユーザと交流ができる SNS アプリケーションです。Twitter の俳句版をイメージして開発しました。
+
+![picture 3](images/aa860888c38d12ff1eaf47ae0b8154ff83019c53509a7e7a493ff5b514985d9a.jpg)
+
+- **主な実装内容**
+  - 句、画像の投稿
+  - タグの挿入と検索
+  - ユーザー検索
+  - プロフィールの更新、削除
+  - お気に入りの登録
+  - ユーザーのフォロー
+  - 句カードへの投票、投票回数のリセット
+  - 句への返信
+  - 句カードの Twitter への共有
+  - アカウント情報の更新と削除
+  - ランキング機能
+  - タグの一覧表示
+  - メール認証
+  - Cloud Storage への画像ファイルの保存
+  - パスワードの hash 化
+  - パスワードを忘れた際の再登録メール送信処理
+  - JWT トークンによる自動ログイン
+  - web hook を使用して問い合わせ内容を Discord に転送
+  - レスポンシブ対応
+
+<br>
+
+#### タイピングゲーム (2022/05 -　 2 週間程度)
+
+プログラミング言語の単語のみを取り扱うタイピングゲームです。
+選択できる言語は JavaScript, python, HTML/CSS 。
+
+- vanilla JavaScript とテンプレートエンジン hbs を使用してフロントエンドの開発
+- バックエンドは Node.js とデータベースに mongoDB Atlas を使用
+- 単語をデータベースに保管し、クライアントのリクエストで DB から取り出しクライアントに送信
+- 単語の追加はルーティングを用いる方法と CSV から複数単語を追加する方法がある
+- Heroku へのデプロイ（現在は停止中です）
+
+### ゲーム開発
+
+**UNREAL ENGINE** を使用したアマチュアのゲーム開発を個人で 5 年ほど経験しております。
+
+##### iOS スマートフォンゲーム 「Crazy Chicken Curve」
+
+卵型飛行機に乗った鶏が飛んでくるミサイルを避けていくシンプルなゲームです。
+現在は公開の期限が切れているため非公開となっております。
+
+https://appadvice.com/app/crazy-chicken-curve/1566090087
+
+![picture 5](images/cb9aeac7c69440f328e05dbc1620051a30feb8e9117576b5ebfd3a7185f52c65.png)
+
+---
+
+### 職務履歴詳細
