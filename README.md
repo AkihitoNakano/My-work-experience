@@ -33,7 +33,7 @@
 
 ## スキル
 
-![picture 4](images/5e85cdd86504ec46e6a5d1094322f5dc7ba16ae2ae6e5b8c20fdf127e6bf8eee.png)
+![picture 1](images/fb761968658d3c548c15706eeea45ec6f513ae9312f248de5c428395a6a039b3.png)
 
 ### TypeScript / Node.js / Next.js / React / MongoDB
 
@@ -114,12 +114,11 @@ WEB サイト
 
 👉 https://good-food-one.vercel.app/
 
-解説ページ、git
+解説ページ、git リポジトリ
 
 👉 https://github.com/AkihitoNakano/GoodFood-Portfolio
 
-料理のレシピを作成し、複数のレシピをまとめて一つの A4 ページに印刷できるアプリを開発。
-アプリケーションの内容は妻に随時チェックしてもらい使いやすいアプリになるように改善を加えていきました。
+料理のレシピを投稿したり編集できるアプリケーション。複数のレシピをまとめて一つの A4 ページにまとめ印刷できる機能が特徴になります。
 
 <br>
 
@@ -208,7 +207,9 @@ https://appadvice.com/app/crazy-chicken-curve/1566090087
 
 ![picture 5](images/cb9aeac7c69440f328e05dbc1620051a30feb8e9117576b5ebfd3a7185f52c65.png)
 
-## <br>
+<br>
+
+---
 
 ### 職務履歴詳細
 
@@ -286,6 +287,7 @@ https://appadvice.com/app/crazy-chicken-curve/1566090087
 |2015 |TV|GARO バレリーノ|
 
 **【アピールポイント】**
+
 主に日本企業からの受託案件に関して企画、プロデュースから管理、実製作まで一括して責任を負う立場でした。
 社内チームの体制づくりや品質管理を中心とし、社内の新人を現場で活躍できるよう教育してきました。
 
@@ -340,12 +342,13 @@ https://appadvice.com/app/crazy-chicken-curve/1566090087
 |2011 |TV|この世界の片隅に|
 
 **【アピールポイント】**
+
 一年半の期間で複数の映画案件の合成作業を担当。カイジ 2 では社内唯一のコンポジッターとして一人で 50 カット 以上担当、のぼうの城では最後の重要なカットの合成を任せていただきました。
 
 <br>
 ***
 
-#### 人材育成　講師業務
+### 人材育成　講師業務
 
 #### 学校法人 OCA 大阪デザイン＆テクノロジー専門学校(2017/4 - 2022/3)
 
