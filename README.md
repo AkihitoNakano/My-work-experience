@@ -79,6 +79,7 @@
 - docker-compose ファイルを開発環境と本番環境用に分けて作ることができる
 - Dockerfile または docker-compose ファイルから指定のポート番号でアプリを立ち上げることができる
 - Docker ファイルを使って Cloud Run にデプロイすることができる
+- postgres を Docker にインストールして Docker からデータベースを使用することができる
 
 #### GCP / Cloud Run/ Cloud Storage / Container Registry / Cloud Build
 
@@ -152,7 +153,7 @@ WEB サイト
 
 👉 https://github.com/AkihitoNakano/Portfolio-Paiku575
 
-このアプリは俳句や川柳、575 などの句を投稿し、いいねや返信をすることで他のユーザと交流ができる SNS アプリケーションです。Twitter の俳句版をイメージして開発しました。GCP の Cloud Run / Cloud Storage を使用することでアプリケーションが自動的にスケールができるように実装しました。
+このアプリは俳句や川柳、575 などの句を投稿し、いいねや返信をすることで他のユーザと交流ができる SNS アプリケーションです。Twitter の俳句版をイメージして開発しました。GCP の Cloud Run / Cloud Storage を使用することでアプリケーションのスケーラビリティの問題に対応しました。
 
 <br>
 
