@@ -36,7 +36,7 @@
 
 ## スキル
 
-![picture 1](images/fb761968658d3c548c15706eeea45ec6f513ae9312f248de5c428395a6a039b3.png)
+![picture 1](images/03392b18ac1fcabb789f7e8c3e0114ffa15598ad42d7e41b9e2c235fb9f80d1b.png)
 
 ### TypeScript / Node.js / Next.js / React / MongoDB
 
